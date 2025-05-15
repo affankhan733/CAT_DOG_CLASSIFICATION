@@ -23,14 +23,17 @@ NumPy, Matplotlib
 Google Colab / Jupyter Lab
 
 ▶️ How to Run
-Clone this repository:
-git clone https://github.com/yourusername/cat-dog-classification.git
+
 Install required packages:
+
 pip install -r requirements.txt
+
 Launch Jupyter Notebook or Google Colab:
+
 jupyter notebook cat dog_classification.ipynb
 
 🙋‍♂️ Author
+
 📫 [affankhan2806@gmail.com]
 🌐 github.com/affankhan733
 
